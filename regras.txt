@@ -1,0 +1,10 @@
+O usuário pode:
+-Criar uma tarefa
+-Listar tarefas
+-Concluir uma tarefa
+-Remover uma tarefa
+-Sair do programa
+
+Cada tarefa tem:
+-Título
+-Status (concluída ou não)
